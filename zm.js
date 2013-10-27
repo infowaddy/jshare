@@ -1,0 +1,1 @@
+﻿alert('hello world form local');
